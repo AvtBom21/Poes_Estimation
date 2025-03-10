@@ -2,11 +2,11 @@
 class ExpressionHandler:
 
     MAPPING = {
-        "bình_thường": "Ngồi yên 🤐",
-        "cảm_ơn": "Cảm ơn 😘",
-        "xin_chào": "Xin chào 🙋‍",
-        "yêu": "Yêu ❤️",
-        "không": "Không 🤚"
+        "bình_thường": "Ngồi yên",
+        "cảm_ơn": "Cảm ơn",
+        "xin_chào": "Xin chào",
+        "yêu": "Yêu",
+        "không": "Không"
     }
 
     def __init__(self):
